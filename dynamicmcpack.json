@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "repo": {
+    "type": "github",
+    "owner": "CountXD",
+    "repo": "enchant-icons",
+    "branch": "main",
+    "path": "enchant-icons.zip"
+  },
+  "version": {
+    "current": "1.0.0"
+  },
+  "display": {
+    "name": "Enchant Icons",
+    "description": "Custom icons for enchanted items, synced from GitHub."
+  }
+}
