@@ -1,4 +1,4 @@
-{
+﻿{
   "enchantment.minecraft.aqua_affinity": "\u00a7b\uefe1 Jako ryba ve vodě",
   "enchantment.minecraft.bane_of_arthropods": "\u00a75\uefe5 Hmyzákova záhuba",
   "enchantment.minecraft.binding_curse": "\u00a74\ueef3 Kletba spoutání",
@@ -83,5 +83,6 @@
   "enchantment.level.18":"\u00a7f18",
   "enchantment.level.19":"\u00a7f19",
   "enchantment.level.20":"\u00a7f20"
+,
+  "enchantment.minecraft.lunge": "\u00a7b\ueef5 Lunge"
 }
-

@@ -1,4 +1,4 @@
-{
+﻿{
   "enchantment.minecraft.aqua_affinity": "\u00a7bʎʇᴉuᴉɟɟⱯ ɐnbⱯ \uefe1",
   "enchantment.minecraft.bane_of_arthropods": "\u00a75spodoɹɥʇɹⱯ ɟo ǝuɐᗺ \uefe5",
   "enchantment.minecraft.binding_curse": "\u00a74ᵷuᴉpuᴉᗺ ɟo ǝsɹnƆ \ueef3",
@@ -82,5 +82,6 @@
   "enchantment.level.18":"\u00a7f8Ɩ",
   "enchantment.level.19":"\u00a7f6Ɩ",
   "enchantment.level.20":"\u00a7f0ᘔ"
+,
+  "enchantment.minecraft.lunge": "\u00a7b\ueef5 Lunge"
 }
-

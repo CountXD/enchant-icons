@@ -116,6 +116,15 @@
 			"chars": [
 				"\ueef4"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:misc/spear.png",
+			"ascent": 8,
+			"height": 16,
+			"chars": [
+				"\ueef5"
+			]
 		}
 	]
 }
