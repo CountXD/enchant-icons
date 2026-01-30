@@ -1,4 +1,4 @@
-﻿{
+{
   "enchantment.minecraft.aqua_affinity": "\u00a7b\uefe1 Aqua afineso",
   "enchantment.minecraft.bane_of_arthropods": "\u00a75\uefe5 Pesto di artropodi",
   "enchantment.minecraft.binding_curse": "\u00a74\ueef3 Malediko di bindado",
@@ -34,7 +34,7 @@
   "enchantment.minecraft.smite": "\u00a76\uefe5 Puniso",
   "enchantment.minecraft.soul_speed": "\u00a73\uefe4 Rapideso amnala",
   "enchantment.minecraft.sweeping": "\u00a7b\uefe5 Akutajo repidega",
-  "enchantment.minecraft.swift_sneak": "\u00a73\uefe3 Rapida Kaŝiĝo",
+  "enchantment.minecraft.swift_sneak": "\u00a73\uefe3 Rapida Kasigo",
   "enchantment.minecraft.thorns": "\u00a72\uefe2 Dorni",
   "enchantment.minecraft.unbreaking": "\u00a7e\ueef2 Duriveso",
   "enchantment.minecraft.vanishing_curse": "\u00a74\ueef3 Malediko di desparado",
@@ -42,7 +42,7 @@
   "enchantment.minecraft.density": "\u00a7a\ueef4 Denseso",
   "enchantment.minecraft.breach": "\u00a73\ueef4 Breach",
   "enchantment.minecraft.sweeping_edge": "\u00a7b\uefe5 Plibonigo de Batala Areo",
-  "enchantment.minecraft.lunge": "\u00a7b\ueef5 Lunge",
+  "enchantment.minecraft.lunge": "\u00a71\ueef5 Lunge",
   "potion.potency.0": "",
   "potion.potency.1": "2",
   "potion.potency.2": "3",
